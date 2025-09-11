@@ -56,7 +56,7 @@ See [**here**](/CONTRIBUTING.md) before submitting a pull request.
 
 ## License
 
-- Distributed under the [**GNU GPL-2.0 license**](https://github.com/pound-emu/pound/blob/main/LICENSE)
+- Distributed under the [**GNU GPL-3.0 license**](https://github.com/pound-emu/pound/blob/main/LICENSE)
 
 ## Credits
 
